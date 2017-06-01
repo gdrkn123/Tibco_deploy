@@ -1,0 +1,12 @@
+{"records": [
+    {
+        "jsonSchemaLocation": "/TestREST/Service Descriptors/testrest.TestREST-TestREST.json",
+        "conversionType": "linked",
+        "xsdSchemaTargetNamespace": "http://www.example.com/namespaces/tns/1464272313895"
+    },
+    {
+        "jsonSchemaLocation": "/TestREST/Service Descriptors/testrest.TestREST-TestREST.json",
+        "conversionType": "linked",
+        "xsdSchemaTargetNamespace": "http://tns.tibco.com/bw/REST"
+    }
+]}
